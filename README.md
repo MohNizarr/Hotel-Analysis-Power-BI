@@ -1,5 +1,7 @@
 # Hotel Booking Data Analysis: ETL with Pentaho and Dashboard on Power BI
 
+![power bi](powerbi.png)
+
 This project demonstrates an **End-to-End Business Intelligence (BI)** workflow for analyzing hotel booking data, starting from raw data (`.csv`), ETL orchestration using **Pentaho Data Integration (Kettle)**, data loading into a **SQL Data Warehouse**, and culminating in interactive visualization using **Power BI**.
 
 -----
